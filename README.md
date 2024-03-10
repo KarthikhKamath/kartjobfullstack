@@ -3,8 +3,10 @@ Live link : https://kartjobs.netlify.app/
 
 • Developed a full stack job application platform featuring interrelated models for seamless job posting,
 application, and user management.
+
 • Implemented role-based access control to ensure secure and personalized interactions on the platform,
 catering to the needs of both job seekers and employers.
+
 • Utilized a modern technology stack, including ReactJs, ExpressJs, MongoDB, and JWT
 authentication, to create a responsive, robust, and secure system with features like user authentication,
 job posting, application submission, and detailed user profiles.
